@@ -1,0 +1,30 @@
+.my_detail {
+    padding: 20px;
+}
+
+.detail {
+    color: black;
+    position: absolute;
+    margin-left: 0;
+    top: 140px;
+    text-align: left;
+    width: 710px;
+}
+
+.fr {
+    float: right;
+}
+
+.emission > li {
+    float: left;
+}
+
+.imgShow {
+    position: absolute;
+    top: 140px;
+    margin-left: -678px;
+}
+
+.buy_emi .input {
+    width: 400px;
+}

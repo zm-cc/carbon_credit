@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.reward_tab {
+    position: absolute;
+    width: 1200px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: -600px;
+    margin-top: -300px;
+    font-size: 30px;
+}
+
+.reward_tab th:nth-child(1) {
+    width: 150px;
+}
+
+.reward_tab th:nth-child(2) {
+    width: 250px;
+}
+
+.reward_tab th:nth-child(3) {
+    width: 200px;
+}
+
+.reward_tab th:nth-child(4) {
+    width: 200px;
+}
+
+.reward_tab th:nth-child(5) {
+    width: 200px;
+}
+
+.reward_tab th:nth-child(6) {
+    width: 200px;
+}
+
+thead {
+    background-color: royalblue;
+    color: maroon;
+}
+
+tbody {
+    background-color: darkturquoise;
+    color: black;
+}
+
+thead tr {
+    height: 50px;
+    line-height: 50px;
+}
+
+tfoot tr {
+    height: 50px;
+    line-height: 50px;
+}
+
+tbody tr {
+    border-bottom: 1px solid black;
+    height: 0;
+    line-height: 0;
+}

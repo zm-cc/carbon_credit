@@ -1,0 +1,36 @@
+#sidebar {
+    width: 200px;
+    height: 100vh;
+    background: #f1f1f1;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow-y: auto;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#sidebar li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.content {
+    margin-left: 200px; /* 导航栏宽度 */
+    padding: 20px;
+}
+
+.active {
+    background-color: blue;
+    color: white;
+}
+
+.logout_button {
+    margin-top: 600px;
+    background-color: aquamarine;
+    color: darkred;
+}

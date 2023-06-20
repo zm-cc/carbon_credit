@@ -1,0 +1,31 @@
+body, html {
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 楷体, serif;
+}
+
+.usr_title {
+    font-weight: bolder;
+}
+
+.usr_button {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.to_another {
+    color: darkred;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.login_part {
+    background-color: darkturquoise;
+    padding: 24px;
+    border-radius: 8px;
+    width: 400px;
+}
+
+.selector {
+    font-size: 25px;
+}

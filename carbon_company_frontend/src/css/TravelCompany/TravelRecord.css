@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.record_tab {
+    position: absolute;
+    width: 1260px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: -600px;
+    margin-top: -300px;
+    font-size: 30px;
+}
+
+.record_tab th:nth-child(n) {
+    width: 180px;
+}
+
+thead {
+    background-color: royalblue;
+    color: maroon;
+}
+
+tbody {
+    background-color: darkturquoise;
+    color: black;
+}
+
+thead tr {
+    height: 50px;
+    line-height: 50px;
+}
+
+tfoot tr {
+    height: 50px;
+    line-height: 50px;
+}
+
+tbody tr {
+    border-bottom: 1px solid black;
+    height: 0;
+    line-height: 0;
+}

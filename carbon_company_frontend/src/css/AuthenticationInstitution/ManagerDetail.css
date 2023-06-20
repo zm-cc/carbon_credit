@@ -1,0 +1,20 @@
+.manager_detail {
+    padding: 20px;
+}
+
+.root_detail {
+    color: black;
+    position: absolute;
+    margin-left: -400px;
+    top: 140px;
+    text-align: left;
+    width: 1000px;
+}
+
+.fr {
+    float: right;
+}
+
+.emission > li {
+    float: left;
+}
